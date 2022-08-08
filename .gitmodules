@@ -1,3 +1,16 @@
+[submodule "CS20B034"]
+	path = CS20B034
+	url = https://github.com/SachinSahu431/SE22.git
+
+
+[submodule "CS20B040-GitTut"]
+	path = CS20B040-GitTut
+	url = https://github.com/S1ddh4rthaG/CS20B040-GitTut.git
+
+[submodule "GitTutorial"]
+	path = GitTutorial
+	url = https://github.com/PreethiVarshaM/GitTutorial.git
+
 
 [submodule "Git_Tut"]
 	path = Git_Tut

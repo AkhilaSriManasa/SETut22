@@ -26,3 +26,6 @@
 [submodule "GitTut1"]
 	path = GitTut1
 	url = ./GitTut1
+[submodule "SE-Tutorial22"]
+	path = SE-Tutorial22
+	url = https://github.com/vibhav-08/SE-Tutorial22.git

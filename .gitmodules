@@ -29,3 +29,6 @@
 [submodule "SE-Tutorial22"]
 	path = SE-Tutorial22
 	url = https://github.com/vibhav-08/SE-Tutorial22.git
+[submodule "SE-Tutorial-CS47"]
+	path = SE-Tutorial-CS47
+	url = https://github.com/vibhav-08/SE-Tutorial-CS47.git

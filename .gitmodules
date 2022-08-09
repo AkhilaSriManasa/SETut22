@@ -78,3 +78,6 @@
 [submodule "CS20B010"]
 	path = CS20B010
 	url = https://github.com/GroshanCS10/CS20B010
+[submodule "SETut22"]
+	path = SETut22
+	url = https://github.com/AkhilaSriManasa/SETut22.git

@@ -78,3 +78,6 @@
 [submodule "CS20B010"]
 	path = CS20B010
 	url = https://github.com/GroshanCS10/CS20B010
+[submodule "cs20b027_repository"]
+	path = cs20b027_repository
+	url = https://github.com/Aravind00009/cs20b027_repository.git

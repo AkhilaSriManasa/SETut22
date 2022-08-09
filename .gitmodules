@@ -30,6 +30,17 @@
 [submodule "SEtut1"]
 	path = SEtut1
 	url = https://github.com/Ganesh-P03/SEtut1.git
+<<<<<<< HEAD
+[submodule "GitTut1"]
+	path = GitTut1
+	url = ./GitTut1
+[submodule "SE-Tutorial22"]
+	path = SE-Tutorial22
+	url = https://github.com/vibhav-08/SE-Tutorial22.git
+[submodule "SE-Tutorial-CS47"]
+	path = SE-Tutorial-CS47
+	url = https://github.com/vibhav-08/SE-Tutorial-CS47.git
+=======
 
 [submodule "CS20B055-SEtut"]
 	path = CS20B055-SEtut
@@ -78,3 +89,4 @@
 [submodule "CS20B010"]
 	path = CS20B010
 	url = https://github.com/GroshanCS10/CS20B010
+>>>>>>> 30586d0faad45f845e93d2dd049b616e0cfc190d
